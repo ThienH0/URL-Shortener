@@ -2,7 +2,7 @@
 
 URL Shortener is a simple and efficient web service for transforming long and unwieldy URLs into concise, user-friendly links. It provides a convenient way to create, manage, and access shortened URLs.
 
-##Features:
+## Features:
 
 - Shorten long URLs with a single API call.
 - Redirect users to the original URL using the shortened link.
@@ -10,7 +10,7 @@ URL Shortener is a simple and efficient web service for transforming long and un
 - Generate unique, six-character short aliases for each URL.
 - Error handling and validation to ensure a smooth user experience.
 
-Getting Started
+## Getting Started
 
 Prerequisites:
 
@@ -35,7 +35,7 @@ Installation:
 
 The URL Shortener service will start on http://localhost:8080.
 
-Usage
+## Usage
 
 Shorten a URL:
 
@@ -59,10 +59,10 @@ The project uses an SQLite database to store URL mappings. The schema consists o
 - short: Text, the short URL
 - long: Text, the original URL
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions, feature requests, or found a bug, please open an issue or create a pull request.
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
